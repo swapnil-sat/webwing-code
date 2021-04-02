@@ -1,0 +1,9 @@
+a={10,20,30,40,50}
+print(type(a))
+print(id(a))
+a.add(70)
+print(a)
+a.remove(20)
+print(a)
+print(len(a))
+print(frozenset(a))
