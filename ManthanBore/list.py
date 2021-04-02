@@ -1,0 +1,12 @@
+list1=[1,2,3,"abc",True]
+print(list1)
+print(type(list1))
+print(id(list1))
+print(len(list1))
+list1.append(1)
+print(list1)
+print(id(list1))
+print(id(list1))
+list1.remove(2)
+print(list1)
+print(len(list1))
