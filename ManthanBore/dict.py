@@ -10,12 +10,10 @@
 # print(id(d))
 # print(len(d))
 
-# d={'NAME':'MAN','AGE':'24','QUALIFICATION':'BE.MECH','CITY':'PUNE','1':'XYZ','2':'abc'}
-# print(d)
-# print(type(d))
-# print(id(d))
-# print(len(d))
-# d.keys()
-# print(d)
-# d.values()
-# print(d)
+d={'NAME':'MAN','AGE':'24','QUALIFICATION':'BE.MECH','CITY':'PUNE','1':'XYZ','2':'abc'}
+print(d)
+print(type(d))
+print(id(d))
+print(len(d))
+print(d.keys())
+print(d.values())  
