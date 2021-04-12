@@ -1,8 +1,8 @@
 import sys
 def add():
     print(sys.argv)
-    a=int(sys.argv[1])
-    b=int(sys.argv[2])
+    a=float(sys.argv[1])
+    b=float(sys.argv[2])
     c=a+b
     print(c)
 add()

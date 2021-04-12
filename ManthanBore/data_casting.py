@@ -1,0 +1,11 @@
+# name="123"
+# age=24
+# salary=3.6
+# flag=True
+# print(int(name))
+# print(float(age))
+# print(int(salary))
+# print(str(flag))
+# print(bool(age))
+# print(bool(name))
+# print(bool(salary))
