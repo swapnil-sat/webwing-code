@@ -19,3 +19,7 @@
 # b=int(a)
 # print(b)
 # print(type(b))
+
+# x=3
+# x|=4
+# print(x)
