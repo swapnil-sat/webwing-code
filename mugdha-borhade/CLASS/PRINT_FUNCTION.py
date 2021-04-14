@@ -1,7 +1,7 @@
-# print("hello")
-# print("world")
+print("hello")
+print("world")
 
-# print("hello","world",sep=',')
+print("hello","world",sep=",")
 
 a = 10
 b = True
@@ -17,7 +17,7 @@ print("a = {name}, b = {age},c = {city}" . format(name="Abc",age=10,city="pune")
 #
 print("a=",a ,"b=",b , "c=",c)
 #
-print("a = %d,b =%f,c =%s".format(a,b,c))
+print("a = %d,b =%f,c =%s"%(a,b,c))
 # formated string
 
 print(f"a = {a,e},b = {b},c={c}")
