@@ -9,3 +9,6 @@
 # print("--------------------")
 # print(intro[5::-1])
 # print(len(intro))
+# l=[1,2,3,4,5,6,7]
+# print(10 in l)
+# print("test" in intro)
