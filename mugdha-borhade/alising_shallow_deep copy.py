@@ -51,3 +51,19 @@ print(id(l))
 print(id(l1))
 print(id(l2))
 print(id(l3))
+
+
+l4 = copy.deepcopy(l)
+print("l4: ",l4)
+print("l :",l)
+l[2][0]=777
+print("l: ",l)
+print("l4: ",l4)
+l[2][1]=101
+print("l: ",l)
+print("l4: ",l4)
+print(id(l))
+print(id(l1))
+print(id(l2))
+print(id(l3))
+print(id(l4))
