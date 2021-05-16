@@ -9,3 +9,11 @@
 
 # for i in range (10) :
 #    pass
+
+# for x in [0,1,2]:
+#     pass
+
+# l="webwingforwebwing"
+# for letter in l:
+#     pass
+# print("last letter:",letter)

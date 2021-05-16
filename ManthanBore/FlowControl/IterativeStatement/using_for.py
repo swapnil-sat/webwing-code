@@ -36,4 +36,18 @@
 # for i in l [:: -3] :
 #     print(i)
 
+# s="welcome webwing"
+# for x in s:
+#     print(x)
+
+# x=["Have","A","Nice","Day"]
+# for i in x:
+#     print(i)
+
+# Nested in for loop:-
+# x=["Have","A","Nice","Day"]
+# for word in x:
+#     for character in word:
+#         print(character)
+
 
