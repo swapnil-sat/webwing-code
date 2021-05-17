@@ -40,7 +40,15 @@
 # l2=[i for i in l if i%2==0]
 # print(l2)
 
+# Nested Loop:-
+# list1=["red","yellow","blue","green"]
+# list2=["apple","banana","cherry"]
+# for x in list1:
+#     for y in list2:
+#         print(x,y)
+
 # t=(1,2,3,4,5)
+# print(t)
 # print(t.index(2))
 # print(t.count(2))
 # print(t.count(20))
@@ -48,5 +56,8 @@
 # print(t[-1])
 # print(t[0:3])
 # t=(1,2,3,4,5,2,3,2)
+# print(t)
 # l=[i for i in t]
 # print(l)
+# t1=(i for i in t if i%2==0)
+# print(t1)

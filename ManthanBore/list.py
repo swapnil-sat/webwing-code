@@ -49,28 +49,3 @@
 # print(type(l))
 # print(id(l))
 # print(len(l))
-# Nested Loop:-
-# list1=["red","yellow","blue","green"]
-# list2=["apple","banana","cherry"]
-# for x in list1:
-#     for y in list2:
-#         print(x,y)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

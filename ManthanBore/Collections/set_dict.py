@@ -108,7 +108,50 @@
 # d.clear()
 # print(d)
 
+# emp={
+#     "ename":"rohit",
+#     "esalary":"20,000",
+#     "dept":"IT"
+# }
+# for x in emp:
+#     print(x)
+# for x in emp:
+#     print(emp[x])
+# for x in emp.keys():
+#     print(x)
+# for x in emp.values():
+#     print(x)
+# for x in emp.items():
+#     print(x)
+# emp2=emp.copy()
+# print(emp2)
+# emp2=dict(emp)
+# print(emp2)
 
+# Nested Dictionary:-
+# company={
+# "emp1":{
+#     "ename":"sumit",
+#     "esalary":"30,000",
+#     "dept":"IT"
+# }
+#  "emp2":{
+#     "ename":"ritesh",
+#     "esalary":"40,000",
+#     "dept":"shift 1"
+# }
+#  "emp3":{
+#     "ename":"prakash",
+#     "esalary":"29,900",
+#     "dept":"shift 2"
+# }
+# }
+# print(company)
 
-
-
+# amazon={
+#     "PC":"Dell",
+#     "nikhil":"4",
+#     "price":"3,70,000"
+# }
+# amazon.clear()
+# print(amazon)
