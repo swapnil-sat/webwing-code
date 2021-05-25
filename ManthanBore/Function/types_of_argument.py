@@ -2,7 +2,7 @@
 # def addition(a,b):
 #     c=a+b
 #     print("addition",c)
-# addition(7,9)
+# addition(9,7)
 
 # def addition(a=4,b=3):
 #     c=a+b
@@ -14,7 +14,7 @@
 #     c=a+b
 #     print("addition",c)
 # addition(9)
-# addition(9,16)
+# addition(16,9)
 
 # Keyword Argument:-
 # def interest(price,rate,time):
@@ -43,8 +43,8 @@
 # Return statement or value:-
 # def my_function(x):
 #     return 5*x
-# print(my_function(5))
-# print(my_function(4))
+# print(my_function(9))
+# print(my_function(7))
 
 # Pass statement:-
 # def my_function():

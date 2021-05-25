@@ -1,10 +1,13 @@
 # class phone:
 #     def make_call(self):
 #         print("making call")
+#     def watch_video(self):
+#         print("watching video")
 #     def play_game(self):
 #         print("playing game")
 # p1=phone()
 # p1.make_call()
+# p1.watch_video()
 # p1.play_game()
 
 # class employee:
@@ -14,7 +17,8 @@
 #         self.salary=salary
 # rohit=employee("rohit","patil",45000)
 # rohan=employee("rohan","patil",45000)
-# print(rohit.fname,rohan.fname)
+# print(rohit.fname,rohit.lname,rohit.salary)
+# print(rohan.fname,rohan.lname,rohan.salary)
 
 # class employee:
 #     increment=1.5
