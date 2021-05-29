@@ -7,7 +7,7 @@
 #         print("parent class method",cls.money)
 #     @staticmethod
 #     def static():
-#         x=7
+#         x=61
 #         print("parent class static method",x)
 # class Child(Parent):
 #     def display(self):
